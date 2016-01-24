@@ -1,4 +1,4 @@
-FROM python:3.5.1
+FROM django:1.9.1-python3
 
 ENV ROOT /app
 
